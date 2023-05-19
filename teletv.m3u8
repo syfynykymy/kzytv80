@@ -1,13 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:1832
-#EXTINF:7.08,
-l_1833_11264960_1832.ts?nimblesessionid=79300989
-#EXTINF:4.6,
-l_1833_11272040_1833.ts?nimblesessionid=79300989
-#EXTINF:9.28,
-l_1833_11276640_1834.ts?nimblesessionid=79300989
-#EXTINF:10,
-l_1833_11285920_1835.ts?nimblesessionid=79300989
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
