@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-http://vsd140.mycdn.me/hls/6139853474312.m3u8/sig/v9eEcI797b8/expires/1711829618363/srcIp/88.230.99.57/urls/185.226.53.63/clientType/0/srcAg/CHROME_ANDROID/mid/6863507889672/6139853474312_fullhd/index.m3u8?p
-
-
+http://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
