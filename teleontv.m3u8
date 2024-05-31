@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png", TJK TV YURT DISI
 http://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
